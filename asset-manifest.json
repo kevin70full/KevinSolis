@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kevin70full/KevinSolis.git/static/css/main.dafa3961.css",
+    "main.js": "/kevin70full/KevinSolis.git/static/js/main.d0af9521.js",
+    "static/js/787.2132b845.chunk.js": "/kevin70full/KevinSolis.git/static/js/787.2132b845.chunk.js",
+    "index.html": "/kevin70full/KevinSolis.git/index.html",
+    "main.dafa3961.css.map": "/kevin70full/KevinSolis.git/static/css/main.dafa3961.css.map",
+    "main.d0af9521.js.map": "/kevin70full/KevinSolis.git/static/js/main.d0af9521.js.map",
+    "787.2132b845.chunk.js.map": "/kevin70full/KevinSolis.git/static/js/787.2132b845.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafa3961.css",
+    "static/js/main.d0af9521.js"
+  ]
+}
