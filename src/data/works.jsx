@@ -21,7 +21,7 @@ export const works = [
       />,
       
     ],
-    img: '/img/lading_de_venta.jpg',
+    img: '/KevinSolis/img/lading_de_venta.jpg',
     deploy: 'https://kevin70full.github.io/Lading-de-Venta.github.io/',
     github: 'https://github.com/kevin70full/Lading-de-Venta.github.io'
   },
@@ -50,7 +50,7 @@ export const works = [
       />,
       
     ],
-    img: '/img/CRUD.jpg',
+    img: '/KevinSolis/img/CRUD.jpg',
     deploy: 'https://kevin70full.github.io/crud.github.io/',
     github: 'https://github.com/kevin70full/crud.github.io'
   },
@@ -83,7 +83,7 @@ export const works = [
       />,
       
     ],
-    img: '/img/restaurante.jpg',
+    img: '/KevinSolis/img/restaurante.jpg',
     deploy: 'https://kevin70full.github.io/restaurante.github.io/',
     github: 'https://github.com/kevin70full/restaurante.github.io'
   },
@@ -120,7 +120,7 @@ export const works = [
         color='#2760e5'
       />,
     ],
-    img: '/img/ecommerce.jpg',
+    img: '/KevinSolis/img/ecommerce.jpg',
     deploy: 'https://kevin70full.github.io/ecommerce-front/',
     github: 'https://github.com/kevin70full/ecommerce-front'
   }
