@@ -1,7 +1,7 @@
 {
   "name": "nombre-del-proyecto",
   "version": "0.1.0",
-  "homepage": "https://github.com/kevin70full/KevinSolis.git",
+  "homepage": "https://kevin70full.github.io/KevinSolis/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
