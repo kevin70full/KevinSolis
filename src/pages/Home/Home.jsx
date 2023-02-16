@@ -19,7 +19,7 @@ const Home = () => {
       </div>
 
       <img
-        src='/img/code-illustration.svg'
+        src='/KevinSolis/img/code-illustration.svg'
         className='home__img'
         alt='coding illustration'
       />
